@@ -7,6 +7,6 @@ require (
 	github.com/judwhite/go-svc v1.2.1
 	github.com/sirupsen/logrus v1.8.1
 	github.com/takama/daemon v1.0.0
-	github.com/vxcontrol/luar v0.0.0-20210322093134-8f1f70bcbe96
-	github.com/vxcontrol/vxcommon v1.0.0
+	github.com/vxcontrol/luar v1.0.0
+	github.com/vxcontrol/vxcommon v1.1.0
 )
